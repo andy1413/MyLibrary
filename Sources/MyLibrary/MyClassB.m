@@ -5,8 +5,8 @@
 //  Created by wangfangshuai on 2020/8/31.
 //
 
-#import "MyLibrary/MyClassA.h"
+#import "MyLibrary/MyClassB.h"
 
-@implementation MyClassA
+@implementation MyClassB
 
 @end
