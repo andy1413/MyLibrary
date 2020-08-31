@@ -1,0 +1,5 @@
+module MyLibrary {
+     umbrella header "MyLibrary/MyClassA.h"
+     export *
+     module * { export * }
+ }
